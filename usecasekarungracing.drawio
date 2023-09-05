@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T08:20:52.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="YC9PAkuuvsx0nm92djK4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T08:26:39.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-tUivABndRq5tukOETAJ" version="21.7.2" type="github">
   <diagram name="Page-1" id="hQD2j9SaQCCPotGaqUKM">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="195" y="80" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-2" value="KARUNG RACING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="80" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLTRjouBz1Fg6TuejmLG-3" target="aLTRjouBz1Fg6TuejmLG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-3" value="SART" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aLTRjouBz1Fg6TuejmLG-4" target="aLTRjouBz1Fg6TuejmLG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-4" value="LOMPAT/JALAN KECIL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-5" value="FINISH" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLTRjouBz1Fg6TuejmLG-6" target="aLTRjouBz1Fg6TuejmLG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-6" value="&amp;nbsp;PEMAIN1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLTRjouBz1Fg6TuejmLG-8" target="aLTRjouBz1Fg6TuejmLG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-8" value="PEMAIN2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLTRjouBz1Fg6TuejmLG-12" target="aLTRjouBz1Fg6TuejmLG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLTRjouBz1Fg6TuejmLG-12" value="JURI" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="70" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
