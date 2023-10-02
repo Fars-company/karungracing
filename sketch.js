@@ -8,14 +8,16 @@ function preload() {
   loncat = loadSound ('loncat.mp3')
   bg = loadImage ('gambar.jpeg')
   fh = loadSound ('finish.mp3')
+  pemain1 = loadImage ('pemain1.jpeg')
+  pemain2 = loadImage ('pemain2.jpeg')
   
 }
 
 function setup() {
   createCanvas(600, 400);
   
-  pemain1 = new Pemain (200, '#65B5F5')
-  pemain2 = new Pemain (height-100, '#A4D36F')
+  pemain1 = new Pemain (50, 230, pemain1)
+  pemain2 = new Pemain (50, 150, pemain2)
 }
  
 function draw() {
