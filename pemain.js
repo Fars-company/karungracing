@@ -6,7 +6,7 @@ class Pemain {
     this.speed = 20
   }
   tampilkan() {
-    image(this.pemain, this.x, this.y, 50, 100)
+    image(this.pemain, this.x, this.y, 130,120)
    
   }
   maju() {
